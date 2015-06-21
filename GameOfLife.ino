@@ -1,6 +1,6 @@
 /* Conway's Game of Life for Arduino
  * Version: 4.8 (20131202) By: Kamots http://theforest.us/lab/
- * Copyright 2013 kamotswolf
+ * Copyright 2013 kamotswind
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
